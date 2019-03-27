@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "112280236840",
+    "firebase_url": "https://driveplease-a8c65.firebaseio.com",
+    "project_id": "driveplease-a8c65",
+    "storage_bucket": "driveplease-a8c65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112280236840:android:6a5b5278da58789a",
+        "android_client_info": {
+          "package_name": "com.usdrawing.driveplease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112280236840-65rnj6jkmvhbccsonbc93v3p33b2g3om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtjybKrC1mP0Q-4EdWb-s8OFty6RiMJZM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
